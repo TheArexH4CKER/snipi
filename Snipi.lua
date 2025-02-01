@@ -1,17 +1,19 @@
 script_key="oDATjmpyiVLiDDuoBNRUxdGZNseZkKyK";
 getgenv().Settings = {
     Sniper = {
-        Active = false,
+        Active = true,
         ["Items"] = {
             SearchTerminal = {
                 [[ Search Items via Trading Terminal, Custom Keywords NOT supported here. ]],
-                ["Nice Egg"] = {Price = "5%", InventoryLimit = 355},
-                ["Huge Night Terror Cat"] = {Price = "50%", UseCosmicValues = true},
+                ["Royalty Charm"] = {Price = "1%", InventoryLimit = 100},
+                ["Chest Mimic"] = {Price = "1%", InventoryLimit = 4},
+                ["Superior Chest Mimic"] = {Price = "1%", InventoryLimit = 2},
+                ["Mini Chest Fortune"] = {Price = "1%", InventoryLimit = 10},
             },
-            ["All Class: Misc"] = {Price = 5},
-            ["All Rarity: Celestial"] = {Price = "50%"},
-            ["Shiny Rainbow Broomstick Cat"] = {Price = "+2%"},
-            ["All Huges"] = {Price = "15m", DetectManipulation = true, AllTypes = true},
+            ["Royalty Charm"] = {Price = "1%", InventoryLimit = 100},
+            ["Chest Mimic"] = {Price = "1%", InventoryLimit = 4},
+            ["Superior Chest Mimic"] = {Price = "1%", InventoryLimit = 2},
+            ["Mini Chest Fortune"] = {Price = "1%", InventoryLimit = 10},
         },
         ["Switch Servers"] = {Active = true, SecondDelay = 7, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
@@ -24,7 +26,7 @@ getgenv().Settings = {
     },
 
     Seller = {
-        Active = true,
+        Active = false,
         ["Items"] = {
             ["All Huges"] = {Price = "1%", AllTypes = true},
         },
