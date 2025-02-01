@@ -1,7 +1,7 @@
 script_key="oDATjmpyiVLiDDuoBNRUxdGZNseZkKyK";
 getgenv().Settings = {
     Sniper = {
-        Active = true,
+        Active = false,
         ["Items"] = {
             SearchTerminal = {
                 [[ Search Items via Trading Terminal, Custom Keywords NOT supported here. ]],
@@ -26,7 +26,7 @@ getgenv().Settings = {
     },
 
     Seller = {
-        Active = false,
+        Active = true,
         ["Items"] = {
             ["All Huges"] = {Price = "1%", AllTypes = true},
         },
