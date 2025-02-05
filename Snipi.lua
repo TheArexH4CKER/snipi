@@ -29,7 +29,7 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["All Huges"] = {Price = "1%", AllTypes = true},
-            ["Hellfire Gift"] = {Price = "3%"},
+            ["Hellfire Gift"] = {Price = "4%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
