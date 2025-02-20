@@ -28,6 +28,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
+            ["All Titanics"] = {Price = "1%", AllTypes = true},
             ["All Huges"] = {Price = "4%", AllTypes = true},
             ["Diamond Orb"] = {Price = "1%"},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
