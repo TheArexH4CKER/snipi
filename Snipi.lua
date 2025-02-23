@@ -29,7 +29,7 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["Golden Titanic Loveserker"] = {Price = "6%"},
-            ["Retro Pack"] = {Price = "5%"},            
+            ["Retro Pack"] = {Price = "10%"},            
             ["Titanic Loveserker"] = {Price = "1%"},
             ["All Huges"] = {Price = "10%", AllTypes = true},
             ["Love Gift"] = {Price = "6%"},
