@@ -28,8 +28,8 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Retro Pack"] = {Price = "1%"},            
             ["Golden Titanic Loveserker"] = {Price = "6%"},
+            ["Retro Pack"] = {Price = "1%"},            
             ["Titanic Loveserker"] = {Price = "1%"},
             ["All Huges"] = {Price = "5%", AllTypes = true},
             ["Love Gift"] = {Price = "6%"},
