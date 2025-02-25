@@ -28,15 +28,10 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Golden Titanic Loveserker"] = {Price = "10%"},
-            ["Retro Pack"] = {Price = "15%"},   
             ["Fantasy Pack"] = {Price = "6%"},   
             ["Bucket O' Magic"] = {Price = "2%"},   
             ["Hype Egg #2"] = {Price = "4%"},
-            ["Doodle Gift"] = {Price = "6%"}, 
-            ["Clan Gift"] = {Price = "6%"},   
-            ["Snowflake Gift"] = {Price = "6%"},   
-            ["Hellfire Gift"] = {Price = "6%"},   
+            ["Clan Gift"] = {Price = "6%"},    
             ["All Huges"] = {Price = "12%", AllTypes = true},
             ["Love Gift"] = {Price = "6%"},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
