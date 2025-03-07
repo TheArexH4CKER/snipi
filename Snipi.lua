@@ -34,7 +34,7 @@ getgenv().Settings = {
             ["Bucket O' Magic"] = {Price = "2%"},   
             ["Hype Egg #2"] = {Price = "4%"},
             ["Clan Gift"] = {Price = "6%"},    
-            ["All Huges"] = {Price = "8%", AllTypes = true},
+            ["All Huges"] = {Price = "4%", AllTypes = true},
             ["Love Gift"] = {Price = "6%"},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
         },
