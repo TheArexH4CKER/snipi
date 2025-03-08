@@ -36,6 +36,7 @@ getgenv().Settings = {
             ["Clan Gift"] = {Price = "6%"},    
             ["All Huges"] = {Price = "2%", AllTypes = true},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
+            ["Diamond Orb"] = {Price = "1%"},   
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
