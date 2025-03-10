@@ -28,7 +28,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Lucky Gift"] = {Price = "1%"}, 
+            ["Lucky Gift"] = {Price = "3%"}, 
             ["BIG Pack"] = {Price = "2%"},   
             ["Fantasy Pack"] = {Price = "6%"},   
             ["Retro Pack"] = {Price = "6%"},  
