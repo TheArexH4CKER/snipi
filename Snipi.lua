@@ -30,7 +30,7 @@ getgenv().Settings = {
         ["Items"] = {
             ["Lucky Gift"] = {Price = "5%"}, 
             ["BIG Pack"] = {Price = "2%"},   
-            ["Golden Titanic Bobcat"] = {Price = 30000000000},  
+            ["Golden Titanic Bobcat"] = {Price = 26000000000},  
             ["Fantasy Pack"] = {Price = "6%"},   
             ["Retro Pack"] = {Price = "6%"},  
             ["Bucket O' Magic"] = {Price = "2%"},   
