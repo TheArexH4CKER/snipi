@@ -36,9 +36,8 @@ getgenv().Settings = {
             ["Bucket O' Magic"] = {Price = "2%"},   
             ["Hype Egg #2"] = {Price = "3%"},
             ["Clan Gift"] = {Price = "6%"},    
-            ["All Huges"] = {Price = "2%", AllTypes = true},
+            ["All Huges"] = {Price = "1%", AllTypes = true},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
-            ["Diamond Orb"] = {Price = "1%"},   
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
@@ -48,7 +47,7 @@ getgenv().Settings = {
             ["60 Minutes Timer"] = false,
             ["^^^ Switch To Sniping"] = false,
         },
-        ["Diamonds Sendout"] = {Active = false, Username = "", Amount = "1b"},
+        ["Diamonds Sendout"] = {Active = true, Username = "ProfiAzUr", Amount = "1b"},
     },
 
     [[ Thank you for using System Exodus <3! ]]
