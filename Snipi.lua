@@ -28,12 +28,13 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Golden Titanic Bobcat"] = {Price = 26000000000},  
+            ["Golden Titanic Bobcat"] = {Price = 26000000000},    
+            ["All Huges"] = {Price = "1%", AllTypes = true},
+            ["Gargantuan Machine Grim Reaper Egg"] = {Price = "1%"},
+            ["Diamond Orb"] = {Price = "1%"},
             ["Bucket O' Magic"] = {Price = "2%"},   
             ["Hype Egg #2"] = {Price = "2%"},
-            ["Clan Gift"] = {Price = "5%"},    
-            ["All Huges"] = {Price = "1%", AllTypes = true},
-            ["Huge Machine Butterfly Egg"] = {Price = "1%"},
+            ["Clan Gift"] = {Price = "5%"},  
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
