@@ -28,14 +28,10 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Lucky Gift"] = {Price = "5%"}, 
-            ["BIG Pack"] = {Price = "2%"},   
             ["Golden Titanic Bobcat"] = {Price = 26000000000},  
-            ["Fantasy Pack"] = {Price = "6%"},   
-            ["Retro Pack"] = {Price = "6%"},  
             ["Bucket O' Magic"] = {Price = "2%"},   
-            ["Hype Egg #2"] = {Price = "3%"},
-            ["Clan Gift"] = {Price = "6%"},    
+            ["Hype Egg #2"] = {Price = "2%"},
+            ["Clan Gift"] = {Price = "5%"},    
             ["All Huges"] = {Price = "1%", AllTypes = true},
             ["Huge Machine Butterfly Egg"] = {Price = "1%"},
         },
