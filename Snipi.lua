@@ -29,7 +29,7 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["Golden Titanic Bobcat"] = {Price = 26000000000},    
-            ["All Huges"] = {Price = "1%", AllTypes = true},
+            ["All Huges"] = {Price = "2%", AllTypes = true},
             ["Gargantuan Machine Grim Reaper Egg"] = {Price = "1%"},
             ["Diamond Orb"] = {Price = "1%"},
             ["Bucket O' Magic"] = {Price = "2%"},   
