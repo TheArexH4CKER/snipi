@@ -31,7 +31,7 @@ getgenv().Settings = {
             ["Golden Titanic Bobcat"] = {Price = 23500000000},    
             ["All Huges"] = {Price = "4%", AllTypes = true},
             ["Gargantuan Machine Grim Reaper Egg"] = {Price = "1%"},
-            ["Diamond Orb"] = {Price = "1%"},
+            ["Diamond Orb"] = {Price = "2%"},
             ["Bucket O' Magic"] = {Price = "2%"},   
             ["Hype Egg #2"] = {Price = "2%"},
             ["Clan Gift"] = {Price = "5%"},  
