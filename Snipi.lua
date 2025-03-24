@@ -28,7 +28,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Golden Titanic Bobcat"] = {Price = 26000000000},    
+            ["Golden Titanic Bobcat"] = {Price = 23500000000},    
             ["All Huges"] = {Price = "2%", AllTypes = true},
             ["Gargantuan Machine Grim Reaper Egg"] = {Price = "1%"},
             ["Diamond Orb"] = {Price = "1%"},
