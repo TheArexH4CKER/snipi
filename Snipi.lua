@@ -28,7 +28,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Golden Titanic Bobcat"] = {Price = 23500000000},    
+            ["Golden Titanic Bobcat"] = {Price = 17500000000},    
             ["All Huges"] = {Price = "4%", AllTypes = true},
             ["Lucky Raid Boss Key"] = {Price = "15%"},
             ["Mega Enchant Chest"] = {Price = "2%"},
